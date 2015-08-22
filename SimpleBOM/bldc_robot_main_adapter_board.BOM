@@ -1,0 +1,24 @@
+Bill of Material for 
+On 19.08.2015 at 20:28:22
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100nF               1608[0603]       2    C30, C31                     Capacitor (Semiconductor SIM Model) 
+ 16V_PAD             POWER-PAD        5    J18, J19, J20, J21, J22                           
+ 470k                J1-0603          1    R30                          Resistor             
+ 470uF               CAPR5-4X5        2    C32, C33                     Capacitor            
+ COIL                MICRO-MATCH-10    1    J9                                                
+ D24V25F7            PIN-HEADER-5     1    J31                                               
+ D24V5F5             PIN-HEADER-4     1    J30                                               
+ DRIBBLER            MICRO-MATCH-10    1    J7                                                
+ ERF                 MICRO-MATCH-4    1    J12                                               
+ GND_PAD             POWER-PAD        5    J13, J14, J15, J16, J17                           
+ HEADER-1            2MM-BULLET-VIA   15    M1A, M1B, M1C, M2A, M2B, M2C                      
+                                           M3A, M3B, M3C, M4A, M4B, M4C
+                                           M5A, M5B, M5C
+ HEADER-1            POWER-VIA        6    16V, 16V_GND, 19V_IN                              
+                                           19V_IN_GND, PC_GND, PC_PWR
+ IMU                 MICRO-MATCH-6    1    J8                                                
+ LTC4412             TSOT-23-6        1    U30                                               
+ PCI-EXPRESS-X4      PCI-EXPRESS-X4-SOCKET    6    J1, J2, J3, J4, J5, J6                            
+ PMOS                SO8              2    Q30, Q31                                          
